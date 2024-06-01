@@ -1,1 +1,1 @@
-Boa Tarde Professor! tentei fazer um sistema de e-commerce como meu projeto e acabei não conseguindo fazer ele rodar no processo infelizmente, pode desconsiderar minha nota do projeto.
+Boa Tarde Professor! tentei fazer um sistema de e-commerce sozinho como meu projeto e acabei não conseguindo fazer ele rodar no processo infelizmente, sofri um acidente e fiquei internado um tempo e adiantei o que pude esse mes para entregar, mas como não consegui terminar pode desconsiderar minha nota do projeto.
